@@ -13,6 +13,9 @@
         android:text="Hello World!"
          />
 
-
+    <ImageView
+        android:id="@+id/volley_imageRequest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
